@@ -1,6 +1,6 @@
-package com.spring.mail.demo.controller;
+package com.spring.mail.controller;
 
-import com.spring.mail.demo.service.EmailService;
+import com.spring.mail.service.EmailService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.web.bind.annotation.GetMapping;
